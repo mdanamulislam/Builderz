@@ -1,0 +1,188 @@
+@media (min-width: 0px) and (max-width: 576px){
+   /* common css start */
+   h2{
+      font-size: 30px;
+   }
+   /* common css end */
+   /* top bar section start */
+   .logo{
+      text-align: center;
+      letter-spacing: 1.5px;
+   }
+   /* top bar section end */
+   /* nav bar start */
+   .nav-bar.nav-sticky{
+	position: sticky;
+	top: 0px;
+	z-index: 3;
+   }
+   /* nav bar end */
+   /* banner section start */
+   .banner-section .carousel-caption h3{
+      font-size: 16px;
+      font-weight: 400;
+   }
+   .banner-section .carousel-caption h1{
+      margin: 15px 0px 30px;
+      font-weight: 600;
+      font-size: 30px;
+   }
+   .banner-section .carousel-caption a{
+      font-size: 16px;
+      font-weight: 400;
+      padding: 10px 25px;
+   }
+   /* banner section end */
+    /* exp-section start */
+    .exp-section .exp-content a{
+      font-weight: 400;
+   }
+   /* exp-section end */
+   /* video section start */
+   .popup-overlay .popup{
+      width: 80%;
+      margin: 40% auto;
+   }
+   .popup video{
+      width: 100%;
+   }
+   /* video section start */
+   /* faq section start */
+   .faq-section .row::after{
+      width: 0px;
+      content: none;
+   }
+   /* faq section end */
+   /* short footer start */
+   .term-of-cond a{
+      padding-right: 15px;
+      margin-left: 15px;
+   }
+   /* short footer end */
+}
+@media (min-width: 576px) and (max-width: 768px){
+   /* common css start */
+   h2{
+      font-size: 30px;
+   }
+   /* common css end */
+   /* top bar section start */
+   .logo{
+      text-align: center;
+      letter-spacing: 1.5px;
+   }
+   /* top bar section end */
+   /* nav bar start */
+   .nav-bar.nav-sticky{
+	position: sticky;
+	top: 0px;
+	z-index: 3;
+   }
+   /* nav bar end */
+   /* banner section start */
+   .banner-section .carousel-caption h3{
+      font-size: 18px;
+      font-weight: 400;
+   }
+   .banner-section .carousel-caption h1{
+      margin: 15px 0px 30px;
+      font-weight: 600;
+      font-size: 40px;
+   }
+   .banner-section .carousel-caption a{
+      font-size: 18px;
+      font-weight: 400;
+      padding: 12px 25px;
+   }
+   /* banner section end */
+   /* exp-section start */
+   .exp-section .exp-content a{
+      font-weight: 400;
+   }
+   /* exp-section end */
+   /* faq section start */
+   .faq-section .row::after{
+      width: 0px;
+      content: none;
+   }
+   /* faq section end */
+   /* video section start */
+   .popup-overlay .popup{
+      width: 80%;
+      margin: 20% auto;
+   }
+   .popup video{
+      width: 100%;
+   }
+   /* video section start */
+   /* short footer start */
+   .term-of-cond a{
+      padding-right: 20px;
+      margin-left: 20px;
+   }
+   /* short footer end */
+}
+@media (min-width: 768px) and (max-width: 992px){
+   /* common css start */
+   h2{
+      font-size: 50px;
+   }
+   /* common css end */
+   /* top bar section start */
+   .logo{
+      text-align: center;
+      letter-spacing: 1.5px;
+   }
+   /* top bar section end */
+   /* nav bar start */
+   .nav-bar.nav-sticky{
+	position: sticky;
+	top: 0px;
+	z-index: 3;
+   }
+   /* nav bar end */
+   /* banner section start */
+   .banner-section .carousel-caption h3{
+      font-size: 26px;
+      font-weight: 400;
+   }
+   .banner-section .carousel-caption h1{
+      margin: 15px 0px 30px;
+      font-weight: 700;
+      font-size: 50px;
+   }
+   .banner-section .carousel-caption a{
+      font-size: 18px;
+      font-weight: 400;
+      padding: 13px 30px;
+   }
+   /* banner section end */
+   /* exp-section start */
+   .exp-section .epx-img{
+      padding-top: 150px;
+   }
+   /* exp-section end */
+    /* video section start */
+    .popup-overlay .popup{
+      width: 80%;
+      margin: 15% auto;
+   }
+   .popup video{
+      width: 100%;
+   }
+   /* video section start */
+   /* short footer start */
+   .term-of-cond a{
+      padding-right: 25px;
+      margin-left: 25px;
+   }
+   /* short footer end */
+}
+@media (min-width: 992px){
+   .top-bar{
+      padding: 0px 70px;
+   }
+   .nav-bar{
+      padding: 0px 85px;
+   }
+}
